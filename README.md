@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Talal Akkaoui 👋
 
-<!--
-**talalakkaoui/talalakkaoui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computational Designer at [adaptis-ai](https://github.com/enterprises/adaptis-ai)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+I am passionate about bridging the gap between design and data to create smarter, more efficient systems.
+
+With a strong foundation in **Building Technology**, I specialize in **parametric design** and **multi-objective optimization**. This background has equipped me with deep technical expertise in analyzing complex datasets and building performance-driven algorithms.
+
+I bring an energizing problem-solving attitude to my work and love developing innovative tools that drive scalable impact.
+
+---
+
+### Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talalakkaoui)
